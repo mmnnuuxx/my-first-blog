@@ -1,11 +1,11 @@
 # "/" + 仓库的名字. 资源文件的路径组成部分
-baseurl: '/Into Coding World'
+baseurl: "/Into Coding World"
 
 # 网页的标题
-title: "My Very First Coding Experience"
+title: "Women In Tech"
 # 网站的主标题
 name: "Missy IT"
-description: "架起女性与编程的桥梁"
+description: "Foodie & IT"
 
 # 其它配置, 可忽略, 无需修改
 url: site url
